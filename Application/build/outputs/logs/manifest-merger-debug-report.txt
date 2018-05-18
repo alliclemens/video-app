@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\1fac6c85319ec6b31adacfa84dd16d96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\73f23a3bfee7bf1d8757cf5d30dc2f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\517274f7ac212419629453ff3fb1f13f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\230d723b08bca53d1600dafcad89b99f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3e86efbae34370d52e8223e4006846c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df98a615cf07dc343b8fe5ebe65d2d16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\77587edfd6eb5585f22ad74c0227c96a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\a7706ce2a421d30bb9bd7ec0d6948b44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6a774ee2c2711fda8c6e5c8bba4fe0fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\57229c983f96a2fde7cae86c1f0b5718\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f3da269c4822bb00ed10fc37da7e304f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ef1ea2b7d04a25bc41d928b5f92ad04d\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:28:5-41:19
+	android:label
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:33:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\1fac6c85319ec6b31adacfa84dd16d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\1fac6c85319ec6b31adacfa84dd16d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\73f23a3bfee7bf1d8757cf5d30dc2f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\73f23a3bfee7bf1d8757cf5d30dc2f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\517274f7ac212419629453ff3fb1f13f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\517274f7ac212419629453ff3fb1f13f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\230d723b08bca53d1600dafcad89b99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\230d723b08bca53d1600dafcad89b99f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3e86efbae34370d52e8223e4006846c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\3e86efbae34370d52e8223e4006846c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df98a615cf07dc343b8fe5ebe65d2d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df98a615cf07dc343b8fe5ebe65d2d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\77587edfd6eb5585f22ad74c0227c96a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\77587edfd6eb5585f22ad74c0227c96a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\a7706ce2a421d30bb9bd7ec0d6948b44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\a7706ce2a421d30bb9bd7ec0d6948b44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6a774ee2c2711fda8c6e5c8bba4fe0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6a774ee2c2711fda8c6e5c8bba4fe0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\57229c983f96a2fde7cae86c1f0b5718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\57229c983f96a2fde7cae86c1f0b5718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f3da269c4822bb00ed10fc37da7e304f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f3da269c4822bb00ed10fc37da7e304f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ef1ea2b7d04a25bc41d928b5f92ad04d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\clemensam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ef1ea2b7d04a25bc41d928b5f92ad04d\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		ADDED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\'17-'18\SE-4910\Final\android-Camera2Video\Application\src\main\AndroidManifest.xml
